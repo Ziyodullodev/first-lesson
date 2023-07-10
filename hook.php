@@ -17,6 +17,14 @@ $pic_keys = [
     "back"
 ];
 
+$names = [
+    "v" => [
+        "rasm1","rasm2"
+    ],
+    'r' => [
+        "rasm1","rasm2"
+    ],
+];
 
 $text = $update->message->text;
 if ($text == "/start") {
