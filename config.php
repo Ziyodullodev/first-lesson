@@ -1,24 +1,10 @@
 <?php
 
-// $varible = "salom"; // bu o'zgaruvchilar yani bitta karobka
-// $bu_list = [$varible]; // bu list va bu karobka ichida karobkalar saqlaydi
-
-// $bu_accocaive_list = [
-//     'ism' => "Ziyodullo",
-//     'yosh' => 22
-// ]; // bu kalit soz va qiymatni saqlaydigan list 
-
-
-// echo $varible."<br>"; // bu ekranga chop etish uchun ishlatiladi
-// echo $bu_accocaive_list['yosh']."<br>";
-
-// var_dump($bu_accocaive_list); // bu list va massivlarni ekarnga chiqarish uchun ishlatiladi
-
 return [
-    'token' => "",
-    'bot_username' => "",
-    'bot_name' => "",
-    'admin_id' => ""
+    'token' => "6266875873:AAGteyQbDgrs6vhmdEr7uB4OBm03fg6Owa4",
+    'bot_username' => "Bt21_armybot",
+    'bot_name' => "Bt21.army",
+    'admin_id' => "6382319764"
 ];
 
 ?>
