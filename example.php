@@ -15,7 +15,7 @@ require "function.php";
 
 // var_dump($bu_accocaive_list); // bu list va massivlarni ekarnga chiqarish uchun ishlatiladi
 
-$resp = setwebhook("https://be8d-37-110-214-221.ngrok-free.app/hook.php");
+$resp = setwebhook("https://btsbot.000webhostapp.com/tgbot/hook.php");
 var_dump($resp);
 
 ?>
